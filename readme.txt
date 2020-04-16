@@ -6,4 +6,3 @@ git add oneline
 git tracks changes
 creating a new branch is quick
 creating a new branch is quick and simple
-
