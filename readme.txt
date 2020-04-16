@@ -5,4 +5,5 @@ git diff means local with stage or local with repository
 git add oneline
 git tracks changes
 creating a new branch is quick
+creating a new branch is quick and simple
 
